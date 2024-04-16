@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\Data Lab And other codes\Data-Final Project\Data-Final Project\Source.cpp(493,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Data Lab And other codes\Data-Final Project\Data-Final Project\Source.cpp(546,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Data Lab And other codes\Data-Final Project\Data-Final Project\Source.cpp(603,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Data Lab And other codes\Data-Final Project\Data-Final Project\Source.cpp(648,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Data Lab And other codes\Data-Final Project\Data-Final Project\Source.cpp(651,42): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\Data Lab And other codes\Data-Final Project\Data-Final Project\Source.cpp(660,42): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\Data Lab And other codes\Data-Final Project\Data-Final Project\Source.cpp(684,46): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Data-Final Project.vcxproj -> D:\Data Lab And other codes\Data-Final Project\x64\Debug\Data-Final Project.exe
